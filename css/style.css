@@ -104,7 +104,7 @@ p {
 }
 
 .imag {
-	margin: 0px 0px 20px 20px;
+	margin: 0px 0px 10px 10px;
 	width: 150px;
 	height: 150px;
 }
@@ -131,7 +131,7 @@ p {
 }
 
 .p-row img {
-	margin-left: 20px;
+	margin-right: 5px;
 }
 
 .contact {
